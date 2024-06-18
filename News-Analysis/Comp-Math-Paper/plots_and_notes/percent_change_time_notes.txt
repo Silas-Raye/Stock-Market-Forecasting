@@ -1,0 +1,1 @@
+percent_change_time is just the percentage change in price divided by the number of days

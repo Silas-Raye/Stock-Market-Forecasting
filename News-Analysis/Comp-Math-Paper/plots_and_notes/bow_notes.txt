@@ -1,0 +1,1 @@
+Data range from january 3rd 2000 to july 1st 2016. Over 4k rows each with 25 headlines and a 0 if the DOW went down and a 1 if the DOW went up.
