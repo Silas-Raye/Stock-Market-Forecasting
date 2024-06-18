@@ -1,0 +1,93 @@
+X,Filing Date,Trade Date,Ticker,Company Name,Industry,Ins,Trade Type,Price,Qty,Owned,ΔOwn,Value,1d,1w,1m,6m,Current Price,Price Increase (%),Days Since Trade
+,2023-10-10 19:07:33,2023-10-05,BHVN,Biohaven Ltd.,Pharmaceutical Preparations,2,P - Purchase,22.0,"+909,090","9,109,774",+11%,"+$19,999,980",,,,,43.58000183105469,98.09091741388495,91
+,2023-10-10 16:05:45,2023-10-06,CODA,"Coda Octopus Group, Inc.","Search, Detection, Navigation, Guidance, Aeronautical Sys",2,P - Purchase,5.99,"+33,000","4,611,280",+1%,"+$197,552",,,,,6.074999809265137,1.419028535311127,90
+D,2023-10-13 16:43:01,2023-10-11,QETAU,Quetta Acquisition Corp,Blank Checks,2,P - Purchase,10.0,"+506,090","3,940,090",+15%,"+$5,060,900",,,,,10.229999542236328,2.2999954223632812,85
+M,2023-10-25 17:59:04,2023-10-23,NTRS,Northern Trust Corp,State Commercial Banks,3,P - Purchase,64.91,"+26,750","465,885",+6%,"+$1,736,269",,,,,82.70999908447266,27.42258370739895,73
+,2023-10-30 06:04:57,2023-10-27,SODI,Solitron Devices Inc,Semiconductors & Related Devices,2,P - Purchase,10.8,"+79,751","519,796",+18%,"+$861,032",,,,,15.25,41.203703703703695,69
+M,2023-12-20 16:46:28,2023-10-30,CCIF,Carlyle Credit Income Fund,Closed-End Funds,4,P - Purchase,7.8,"+39,179","39,179",%,"+$305,763",,,,,8.119999885559082,4.102562635372848,66
+D,2023-10-31 14:23:48,2023-10-30,CFFN,"Capitol Federal Financial, Inc.","Savings Institution, Federally Chartered",4,P - Purchase,5.07,"+60,000","405,071",+17%,"+$304,060",,,,,6.15500020980835,21.400398615549296,66
+,2023-10-31 16:26:31,2023-10-30,SFNC,Simmons First National Corp,National Commercial Banks,2,P - Purchase,14.31,"+12,000","163,353",+8%,"+$171,700",,,,,19.09000015258789,33.40321560159252,66
+,2023-11-02 18:08:34,2023-10-31,LC,Lendingclub Corp,Personal Credit Institutions,12,P - Purchase,5.19,"+120,000","2,409,446",+5%,"+$623,109",,,,,8.619999885559082,66.0886297795584,65
+,2023-11-02 16:12:56,2023-11-01,ISTR,Investar Holding Corp,State Commercial Banks,2,P - Purchase,9.79,"+6,000","166,120",+4%,"+$58,710",,,,,15.710000038146973,60.46986760109269,64
+,2023-11-03 21:03:44,2023-11-02,LXFR,Luxfer Holdings Plc,Industrial Inorganic Chemicals,2,P - Purchase,8.45,"+17,535","149,798",+13%,"+$148,189",,,,,8.569999694824219,1.4201147316475677,63
+,2023-11-03 11:04:32,2023-11-02,FSBC,Five Star Bancorp,State Commercial Banks,2,P - Purchase,18.83,"+7,155","339,308",+2%,"+$134,707",,,,,25.690000534057617,36.431229602005416,63
+,2023-11-06 08:00:11,2023-11-03,SRPT,"Sarepta Therapeutics, Inc.",Pharmaceutical Preparations,2,P - Purchase,78.99,"+75,225","3,470,149",+2%,"+$5,942,300",,,,,93.69000244140625,18.609953717440504,62
+,2023-11-03 13:59:46,2023-11-03,NEOG,Neogen Corp,In Vitro & In Vivo Diagnostic Substances,4,P - Purchase,15.19,"+25,000","93,032",+37%,"+$379,737",,,,,19.5,28.373930217248194,62
+,2023-11-07 14:18:02,2023-11-06,TBI,"Trueblue, Inc.",Help Supply Services,6,P - Purchase,11.47,"+37,050","334,595",+12%,"+$424,884",,,,,14.5,26.41673931996512,59
+,2023-11-07 19:33:41,2023-11-07,DIN,"Dine Brands Global, Inc.",Eating Places,2,P - Purchase,44.4,"+3,395","97,620",+4%,"+$150,742",,,,,46.25,4.16666666666667,58
+,2023-11-08 16:39:48,2023-11-07,FCPT,"Four Corners Property Trust, Inc.",Real Estate Investment Trusts,2,P - Purchase,21.94,"+13,950","632,454",+2%,"+$306,063",,,,,24.809999465942383,13.081127921341757,58
+M,2023-11-09 15:12:45,2023-11-07,B,Barnes Group Inc,Miscellaneous Fabricated Metal Products,5,P - Purchase,21.51,"+183,500","750,476",+32%,"+$3,947,631",,,,,30.3700008392334,41.19014802061086,58
+,2023-11-09 16:05:23,2023-11-08,AMPY,Amplify Energy Corp.,Crude Petroleum & Natural Gas,2,P - Purchase,6.07,"+20,000","20,000",%,"+$121,462",,,,,5.929999828338623,-2.3064278692154403,57
+D,2023-11-09 14:02:53,2023-11-08,ZBRA,Zebra Technologies Corp,General Industrial Machinery & Equipment,2,P - Purchase,206.41,"+1,698","63,838",+3%,"+$350,480",,,,,253.57000732421875,22.847733794011315,57
+,2023-11-13 11:52:42,2023-11-09,PETS,Petmed Express Inc,Drug Stores & Proprietary Stores,3,P - Purchase,7.32,"+61,738","750,748",+9%,"+$451,683",,,,,7.170899868011475,-2.0368870490235746,56
+,2023-11-13 16:15:34,2023-11-09,BRP,"Brp Group, Inc.","Insurance Agents, Brokers & Service",2,P - Purchase,19.97,"+15,000","187,542",+9%,"+$299,550",,,,,23.549999237060547,17.926886515075356,56
+M,2023-11-13 16:10:22,2023-11-09,BALY,Bally'S Corp,Hotels & Motels,6,P - Purchase,9.37,"+76,400","1,021,768",+8%,"+$715,570",,,,,12.3100004196167,31.376738736570974,56
+,2023-11-09 15:24:37,2023-11-09,SOFI,"Sofi Technologies, Inc.",Finance Services,2,P - Purchase,6.76,"+58,950","8,066,357",+1%,"+$398,261",,,,,8.56820011138916,26.74852235782782,56
+,2023-11-13 07:29:41,2023-11-09,AES,Aes Corp,Cogeneration Services & Small Power Producers,6,P - Purchase,16.38,"+60,959","2,188,937",+3%,"+$998,290",,,,,18.774999618530273,14.621487292614619,56
+,2023-11-13 17:03:39,2023-11-10,ERII,"Energy Recovery, Inc.",Special Industry Machinery,4,P - Purchase,17.99,"+20,350","68,673",+42%,"+$366,160",,,,,18.110000610351562,0.6670406356396001,55
+,2023-11-13 17:24:19,2023-11-10,ZNTL,"Zentalis Pharmaceuticals, Inc.",Pharmaceutical Preparations,2,P - Purchase,9.97,"+22,000","399,189",+6%,"+$219,391",,,,,15.59000015258789,56.3691088524362,55
+,2023-11-17 18:15:47,2023-11-10,PCT,"Purecycle Technologies, Inc.","Plastic Materials, Synth Resins & Nonvulcan Elastomers",5,P - Purchase,3.59,"+144,479","1,427,868",+11%,"+$519,234",,,,,3.4600000381469727,-3.6211688538447686,55
+,2023-11-15 16:48:17,2023-11-13,JANX,"Janux Therapeutics, Inc.",Pharmaceutical Preparations,3,P - Purchase,5.87,"+2,549,562","24,762,472",+11%,"+$14,965,929",,,,,10.579999923706055,80.23849955206227,52
+,2023-11-14 19:00:58,2023-11-14,TKO,"Tko Group Holdings, Inc.",Amusement & Recreation Services,5,P - Purchase,79.8,"+35,712","44,220",+420%,"+$2,849,818",,,,,79.80000305175781,3.82425791396262e-06,51
+,2023-11-14 20:02:17,2023-11-14,TELA,"Tela Bio, Inc.",Surgical & Medical Instruments & Apparatus,2,P - Purchase,4.52,"+21,000","366,005",+6%,"+$94,914",,,,,6.78000020980835,50.000004641777664,51
+,2023-11-15 16:14:50,2023-11-14,AAN,"Aaron'S Company, Inc.",Equipment Rental & Leasing,5,P - Purchase,7.33,"+107,500","581,010",+23%,"+$788,295",,,,,11.34000015258789,54.70668693844325,51
+,2023-11-15 16:15:28,2023-11-14,CTOS,"Custom Truck One Source, Inc.",Equipment Rental & Leasing,2,P - Purchase,4.94,"+50,000","691,030",+8%,"+$247,235",,,,,6.195000171661377,25.40486177452179,51
+M,2023-11-16 18:25:03,2023-11-14,AMRC,"Ameresco, Inc.",Special Trade Contractors,2,P - Purchase,24.03,"+80,000","2,144,853",+4%,"+$1,921,999",,,,,29.614999771118164,23.24178015446593,51
+M,2023-11-17 17:13:29,2023-11-14,EML,Eastern Co,"Cutlery, Handtools & General Hardware",2,P - Purchase,18.46,"+15,537","135,913",+13%,"+$286,825",,,,,22.600000381469727,22.426870972208697,51
+,2023-11-16 16:30:28,2023-11-15,HAIN,Hain Celestial Group Inc,Food & Kindred Products,3,P - Purchase,11.0,"+38,175","154,348",+33%,"+$419,993",,,,,10.71500015258789,-2.5909077037464487,50
+,2023-11-17 15:56:32,2023-11-15,TCBX,"Third Coast Bancshares, Inc.","Savings Institutions, Not Federally Chartered",2,P - Purchase,16.35,"+3,500","42,019",+9%,"+$57,225",,,,,19.450000762939453,18.960249314614384,50
+,2023-11-20 17:49:32,2023-11-16,NVST,Envista Holdings Corp,Dental Equipment & Supplies,4,P - Purchase,21.74,"+19,185","394,850",+5%,"+$417,078",,,,,23.420000076293945,7.7276912433024245,49
+M,2023-11-17 14:30:11,2023-11-16,GPMT,Granite Point Mortgage Trust Inc.,Real Estate Investment Trusts,2,P - Purchase,4.82,"+29,457","357,165",+9%,"+$141,951",,,,,5.679999828338623,17.84232009001292,49
+D,2023-11-17 17:40:25,2023-11-16,SGN,"Signing Day Sports, Inc.",Computer Processing & Data Preparation,3,P - Purchase,5.0,"+60,000","2,142,373",+3%,"+$300,000",,,,,1.090000033378601,-78.19999933242798,49
+M,2023-11-20 18:15:47,2023-11-17,TRML,"Tourmaline Bio, Inc.","Biological Products, (No Diagnostic Substances)",4,P - Purchase,13.0,"+48,150","1,832,466",+3%,"+$625,946",,,,,26.790000915527344,106.0769301194411,48
+M,2023-11-20 19:29:56,2023-11-17,RXO,"Rxo, Inc.",Transportation Services,4,P - Purchase,19.48,"+325,003","13,058,171",+3%,"+$6,331,201",,,,,22.420000076293945,15.092402855718404,48
+,2023-11-20 07:10:38,2023-11-17,EMR,Emerson Electric Co,Electronic & Other Electrical Equipment (No Computer Equip),4,P - Purchase,86.77,"+21,500","425,095",+5%,"+$1,865,649",,,,,95.63249969482422,10.213783214041976,48
+M,2023-11-20 18:10:58,2023-11-20,DAR,Darling Ingredients Inc.,Fats & Oils,5,P - Purchase,43.93,"+16,288","124,826",+15%,"+$715,605",,,,,48.20000076293945,9.720010842111208,45
+,2023-11-21 17:07:01,2023-11-20,CRL,"Charles River Laboratories International, Inc.",Commercial Physical & Biological Research,2,P - Purchase,179.91,"+6,942","295,760",+2%,"+$1,248,939",,,,,223.36500549316406,24.153746591720342,45
+,2023-11-22 15:23:05,2023-11-20,ATNI,"Atn International, Inc.",Telephone Communications (No Radiotelephone),3,P - Purchase,31.15,"+22,700","692,113",+3%,"+$707,099",,,,,38.029998779296875,22.086673448786122,45
+M,2023-11-22 17:23:09,2023-11-21,HLLY,Holley Inc.,Motor Vehicle Parts & Accessories,2,P - Purchase,3.96,"+35,000","2,491,010",+1%,"+$138,484",,,,,4.445000171661377,12.247479082358005,44
+,2023-11-22 16:05:35,2023-11-21,TXO,"Txo Partners, L.P.",Crude Petroleum & Natural Gas,4,P - Purchase,17.61,"+475,650","7,612,343",+7%,"+$8,373,872",,,,,19.114999771118164,8.546279222703944,44
+D,2023-11-22 18:07:47,2023-11-22,KLG,Wk Kellogg Co,Grain Mill Products,6,P - Purchase,10.71,"+171,945","205,691",+510%,"+$1,841,861",,,,,13.4399995803833,25.490192160441637,43
+D,2023-11-27 07:00:06,2023-11-22,AUGX,"Augmedix, Inc.",Business Services,2,P - Purchase,4.01,"+1,510,000","25,978,163",+6%,"+$6,048,500",,,,,5.809999942779541,44.887779121684325,43
+,2023-11-27 16:34:45,2023-11-22,XRAY,Dentsply Sirona Inc.,Dental Equipment & Supplies,3,P - Purchase,30.28,"+30,000","375,617",+9%,"+$908,400",,,,,35.564998626708984,17.453760325987393,43
+,2023-11-27 19:12:18,2023-11-24,PRGO,Perrigo Co Plc,Pharmaceutical Preparations,4,P - Purchase,29.53,"+23,590","48,913",+93%,"+$696,710",,,,,33.66999816894531,14.01963484234782,41
+,2023-11-29 16:10:39,2023-11-27,TNDM,Tandem Diabetes Care Inc,Surgical & Medical Instruments & Apparatus,3,P - Purchase,16.75,"+13,135","76,184",+21%,"+$220,057",,,,,27.764999389648438,65.76119038596082,38
+DM,2023-11-29 16:40:56,2023-11-27,ABR,Arbor Realty Trust Inc,Real Estate Investment Trusts,3,P - Purchase,12.3,"+175,080","11,132,645",+2%,"+$2,153,005",,,,,14.765000343322754,20.040653197745957,38
+M,2023-11-28 16:21:01,2023-11-27,SPB,"Spectrum Brands Holdings, Inc.","Miscellaneous Electrical Machinery, Equipment & Supplies",2,P - Purchase,66.71,"+41,053","909,806",+5%,"+$2,738,725",,,,,75.73999786376953,13.5361982667809,38
+M,2023-11-28 16:42:53,2023-11-27,RWAY,Runway Growth Finance Corp.,Closed-End Funds,2,P - Purchase,12.55,"+78,946","412,593",+24%,"+$990,384",,,,,12.845000267028809,2.3505997372813376,38
+,2023-11-29 16:36:22,2023-11-28,CTVA,"Corteva, Inc.",Crops,3,P - Purchase,46.09,"+5,734","281,865",+2%,"+$264,278",,,,,47.46500015258789,2.983293887150981,37
+,2023-11-28 16:05:57,2023-11-28,KMPR,Kemper Corp,"Fire, Marine & Casualty Insurance",3,P - Purchase,42.04,"+16,000","199,014",+9%,"+$672,710",,,,,49.45500183105469,17.637968199464055,37
+M,2023-11-29 16:50:40,2023-11-28,WEST,Westrock Coffee Co,Beverages,2,P - Purchase,8.51,"+84,005","4,341,617",+2%,"+$714,698",,,,,9.90999984741211,16.451232049496,37
+,2023-11-29 16:28:28,2023-11-29,CNP,Centerpoint Energy Inc,Electric Services,3,P - Purchase,27.17,"+52,000","1,989,382",+3%,"+$1,412,987",,,,,29.084999084472656,7.048211573325927,36
+M,2023-11-30 16:38:26,2023-11-29,RNGR,"Ranger Energy Services, Inc.",Oil & Gas Field Services,2,P - Purchase,9.87,"+25,000","191,132",+15%,"+$246,835",,,,,10.260000228881836,3.951370100119927,36
+D,2023-12-01 19:36:48,2023-11-29,PLSE,"Pulse Biosciences, Inc.",Surgical & Medical Instruments & Apparatus,3,P - Purchase,9.06,"+241,793","37,232,320",+1%,"+$2,190,030",,,,,9.555999755859375,5.474610991825325,36
+,2023-11-30 13:21:48,2023-11-30,KYN,"Kayne Anderson Energy Infrastructure Fund, Inc.",Closed-End Funds,5,P - Purchase,10.0,"+1,836,948","3,048,839",+152%,"+$18,363,396",,,,,8.8100004196167,-11.899995803833008,35
+,2023-12-01 14:53:55,2023-12-01,ATRI,Atrion Corp,Surgical & Medical Instruments & Apparatus,2,P - Purchase,309.84,+600,"40,768",+1%,"+$185,904",,,,,411.3800048828125,32.77175473883699,34
+,2023-12-05 16:04:19,2023-12-01,SCVL,Shoe Carnival Inc,Shoe Stores,2,P - Purchase,25.16,"+413,000","17,775,746",+2%,"+$10,391,080",,,,,28.020000457763672,11.36725142195418,34
+,2023-12-05 17:24:11,2023-12-01,HHS,Harte Hanks Inc,Direct Mail Advertising Services,2,P - Purchase,7.14,"+55,739","231,564",+32%,"+$398,089",,,,,7.065899848937988,-1.0378172417648655,34
+M,2023-12-05 17:15:28,2023-12-04,LAZY,"Lazydays Holdings, Inc.",Auto Dealers & Gasoline Stations,3,P - Purchase,6.27,"+350,773","12,976,319",+3%,"+$2,198,864",,,,,5.894999980926514,-5.9808615482214655,31
+,2023-12-06 17:03:00,2023-12-05,XFLT,Xai Octagon Floating Rate & Alternative Income Term Trust,Closed-End Funds,2,P - Purchase,6.89,"+12,000","1,086,440",+1%,"+$82,680",,,,,7.235000133514404,5.007258831849124,30
+,2023-12-07 18:06:29,2023-12-05,BMY,Bristol Myers Squibb Co,Pharmaceutical Preparations,2,P - Purchase,49.59,"+13,571","118,172",+13%,"+$672,994",,,,,51.915000915527344,4.688447097252148,30
+M,2023-12-06 11:22:39,2023-12-05,SEZL,Sezzle Inc.,Business Services,2,P - Purchase,10.38,"+170,144","2,691,293",+7%,"+$1,766,749",,,,,21.100000381469727,103.27553354017076,30
+,2023-12-08 16:01:14,2023-12-06,PSEC,Prospect Capital Corp,Closed-End Funds,2,P - Purchase,5.69,"+91,750","1,692,263",+6%,"+$522,189",,,,,6.127500057220459,7.688928949392945,29
+M,2023-12-08 17:00:06,2023-12-06,CRGY,Crescent Energy Co,Crude Petroleum & Natural Gas,3,P - Purchase,11.0,"+57,133","143,626",+66%,"+$628,638",,,,,12.194999694824219,10.86363358931108,29
+M,2023-12-06 17:00:44,2023-12-06,SSSS,Suro Capital Corp.,Closed-End Funds,2,P - Purchase,4.01,"+126,050","1,193,093",+12%,"+$505,579",,,,,4.050000190734863,0.9975109908943516,29
+,2023-12-11 07:34:17,2023-12-08,GPRE,Green Plains Inc.,Industrial Organic Chemicals,2,P - Purchase,23.12,"+7,919","814,292",+1%,"+$183,071",,,,,24.270000457763672,4.974050422853248,27
+M,2023-12-13 16:42:52,2023-12-11,TEX,Terex Corp,"Industrial Trucks, Tractors, Trailors & Stackers",3,P - Purchase,50.05,"+59,730","550,415",+12%,"+$2,989,619",,,,,56.90999984741211,13.706293401422803,24
+,2023-12-12 16:52:00,2023-12-12,MODG,Topgolf Callaway Brands Corp.,Sporting & Athletic Goods,3,P - Purchase,11.57,"+19,775","1,526,243",+1%,"+$228,755",,,,,13.380000114440918,15.643907644260308,23
+,2023-12-13 16:00:09,2023-12-12,ET,Energy Transfer LP,Natural Gas Transmission,2,P - Purchase,13.18,"+60,000","8,641,198",+1%,"+$790,500",,,,,13.914999961853027,5.576630970053321,23
+,2023-12-14 16:15:21,2023-12-12,HI,"Hillenbrand, Inc.",Miscellaneous Manufacturing Industries,4,P - Purchase,39.22,"+13,350","395,470",+3%,"+$523,529",,,,,45.165000915527344,15.158084945250753,23
+,2023-12-14 16:20:16,2023-12-12,DCTH,"Delcath Systems, Inc.",Surgical & Medical Instruments & Apparatus,2,P - Purchase,3.12,"+54,505","141,526",+63%,"+$169,897",,,,,4.099999904632568,31.410253353607953,23
+M,2023-12-14 17:00:50,2023-12-12,KDP,Keurig Dr Pepper Inc.,Beverages,3,P - Purchase,31.18,"+113,050","546,860",+26%,"+$3,524,868",,,,,32.564998626708984,4.4419455635310605,23
+,2023-12-18 17:02:01,2023-12-14,LQDA,Liquidia Corp,Pharmaceutical Preparations,3,P - Purchase,7.16,"+1,536,313","19,755,126",+8%,"+$11,000,001",,,,,12.460000038146973,74.02234690149403,21
+,2023-12-15 20:15:23,2023-12-14,HRTG,"Heritage Insurance Holdings, Inc.","Fire, Marine & Casualty Insurance",2,P - Purchase,7.34,"+68,118","909,870",+8%,"+$499,986",,,,,6.40500020980835,-12.738416760104226,21
+,2023-12-14 20:30:03,2023-12-14,AVD,American Vanguard Corp,Agricultural Chemicals,2,P - Purchase,9.9,"+18,203","1,173,447",+2%,"+$180,208",,,,,10.619999885559082,7.272726116758401,21
+,2023-12-14 16:44:00,2023-12-14,BOC,Boston Omaha Corp,Real Estate Operators (No Developers) & Lessors,2,P - Purchase,15.19,"+11,875","48,393",+33%,"+$180,383",,,,,15.539999961853027,2.3041472143056474,21
+,2023-12-15 16:53:16,2023-12-14,KNTK,Kinetik Holdings Inc.,Natural Gas Transmission,2,P - Purchase,31.5,"+63,492","3,560,550",+2%,"+$1,999,998",,,,,32.86000061035156,4.317462255084326,21
+,2023-12-19 17:00:09,2023-12-15,RILY,"B. Riley Financial, Inc.",Investment Advice,5,P - Purchase,22.99,"+61,635","1,993,145",+3%,"+$1,416,770",,,,,22.43000030517578,-2.4358403428630586,20
+DM,2023-12-20 16:01:24,2023-12-18,ASYS,Amtech Systems Inc,Special Industry Machinery,2,P - Purchase,3.93,"+80,000","2,755,202",+3%,"+$314,760",,,,,4.119999885559082,4.834602685981727,17
+M,2023-12-19 15:58:37,2023-12-19,SRBK,"Sr Bancorp, Inc.","Savings Institutions, Not Federally Chartered",3,P - Purchase,9.43,"+123,000","123,000",%,"+$1,159,752",,,,,9.479999542236328,0.5302178391975441,16
+D,2023-12-22 08:47:10,2023-12-20,AUID,Authid Inc.,Prepackaged Software,4,P - Purchase,6.22,"+215,500","1,400,924",+18%,"+$1,339,655",,,,,9.869999885559082,58.68167018583734,15
+,2023-12-27 09:00:29,2023-12-22,CSBB,"Csb Bancorp, Inc.",State Commercial Banks,2,P - Purchase,37.99,"+4,000","68,675",+6%,"+$151,960",,,,,37.43000030517578,-1.4740713209376697,13
+M,2023-12-27 08:55:58,2023-12-26,DMLP,"Dorchester Minerals, L.P.",Crude Petroleum & Natural Gas,3,P - Purchase,30.67,"+47,198","196,317",+32%,"+$1,447,715",,,,,31.725000381469727,3.4398447390600744,9
+,2023-12-28 16:16:47,2023-12-28,FDX,Fedex Corp,Air Courier Services,2,P - Purchase,252.22,"+1,200","8,049",+18%,"+$302,663",,,,,246.55999755859375,-2.2440736029681423,7
